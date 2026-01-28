@@ -1,4 +1,4 @@
-# 📚 BookVault - Professional Book Inventory System
+# 📚 PAGEBLOOM - Professional Book Inventory System
 
 A complete React web application for managing book inventory with full CRUD operations, beautiful UI, and instant deployment.
 
